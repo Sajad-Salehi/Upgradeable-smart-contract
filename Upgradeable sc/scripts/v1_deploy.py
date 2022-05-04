@@ -14,7 +14,6 @@ def main():
     proxy = TransparentUpgradeableProxy.deploy(
         contract.address,
         account.address,
-        proxy_admin.address,
         contract_encoded_initializer_function,
         {"from": account, "gas_limit": 1000000},
     )

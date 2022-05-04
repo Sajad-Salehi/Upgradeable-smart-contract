@@ -1,0 +1,12 @@
+{
+  "4": {
+    "ContractV1": [
+      "0x079A3ac54E18Ab90F5C967386b5440dBA386d220",
+      "0xCa42180fEF677D365d0e5A882599A6465434c820",
+      "0xC7Bfe4021de423352d298356382F9940fBB940a6"
+    ],
+    "ProxyAdmin": [
+      "0x1feD22a108f8cE030053fa56f70Ea9b363Bcb454"
+    ]
+  }
+}
